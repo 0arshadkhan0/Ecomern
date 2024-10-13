@@ -1,6 +1,4 @@
-# project for xenonstack  by MOhd arshad khan
-# front-end and backend are in different folders of the project
-#
+
 ### tchnology used in project
 
 ## For frontEnd
